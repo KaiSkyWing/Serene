@@ -2,6 +2,8 @@
 
 プレイ用リンク：[https://unityroom.com/games/naturildgame](https://unityroom.com/games/serenegame)
 
+プレイ動画：https://youtu.be/cKK8auMYiVQ
+
 ボスアニメーション(実装前): https://youtu.be/8_hqZVT2hg4
 
 ## 📝 プロジェクト概要
